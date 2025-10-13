@@ -31,8 +31,7 @@ PriceAnalysisGoBot — это Telegram-бот, написанный на Go, к�
 🛠 Технологии
 
 * Go 1.22+
-* Telegram Bot API: `github.com/go-telegram-bot-api/telegram-bot-api/v5`
 * PostgreSQL (через Docker)
 * HTML-парсинг: `github.com/PuerkitoBio/goquery`
-* ORM: `gorm.io/gorm`
 * Планировщик задач: `github.com/robfig/cron/v3`
+* Работа с .env файлом: `github.com/joho/godotenv`
